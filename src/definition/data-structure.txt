@@ -1,0 +1,54 @@
+Please answer the below Data Structure Questions:
+
+why do we need data structure?
+Ans :data structure is need to arrange and process the data in the memory for efficient storage,access,processing.
+
+What are the various operations that can be performed on different Data Structures?
+searching ,inserting,deleting ,sorting,merging,
+List out the areas in which data structures are applied extensively?
+what is an Array?
+array are used to store multiple values in a single variable.
+what is the difference between the Array and ArrayList?
+array size fixed arraylist resizeable.
+what is LinkedList?
+a linkedList is a collection of object known as node where node consists of two parts,data and address.
+How is an Array different from Linked List?
+data types is the operation you can perform on them.
+what is queue?
+java queue is a data structure that use the FIFO rules.in this rule , the element added first,remove first as well.
+what is stack?
+the stack is a liner data structure that  uses the LIFO rule which the data added last will be removed first .
+what is FIFO and LIFO?
+LIFO-last -in -first -out
+FIFO-first-in-first-out
+what is the order of complexity?
+measures the time taken for running algorithm and it is commonly used to count the number of elementary operation
+performs by the algorithm to improve the performance.
+
+what is the best case to search an element from an array?
+the best case of the unsorted array is O(n).
+what is the worst case to search an element from an array?
+the worst case is also O(n).
+what is tree in data structure?
+what is graph in data structure?
+what is the difference between the HashTable and HashMap?
+What are the major data structures used in the following areas : RDBMS, Network data model and Hierarchical data model.
+How HashMap works in java?
+What is ArrayIndexOutOfBoundsException in java? When it occurs?
+ArrayIndexOutOfBoundsException is a subclass of IndexOutOfBoundsException,and it implements the serializable
+interface.the occurs happen when we trying to access any item which is not present in the array.
+What are the different ways of copying an array into another array?
+a.using variable assignment
+b.create a new array of the same length and copy each element.
+c.use the clone method of the array.
+d.use system.
+What is DFS and BFS?
+DFS-depth first search
+BFS-breadth first search
+What is Recursion?
+recursion is the technique of making a function call itself.
+What are linear and non linear data Structures?
+linear-element are store sequentially and the element are connected to the previous and the next element.
+non-linear-
+What is Big-(O)-notation?
+big o notation is used computer science to describe the performance or complexity of an algorithm.
